@@ -170,13 +170,7 @@ InfinityFree:
 
 Visit your assigned URL:
 
-https://your-subdomain.infinityfreeapp.com
-
-Local (XAMPP):
-
-Visit:
-
-http://localhost/study_buddy/
+study-buddy.infinityfree.me
 
 
 You will see:
